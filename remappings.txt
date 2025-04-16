@@ -2,3 +2,4 @@
 @balancer-v3-monorepo/vault/=lib/balancer-v3-monorepo/pkg/vault/contracts/
 @openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
 @permit2/=lib/permit2/src/
+@reclamm/=lib/reclamm/contracts/
